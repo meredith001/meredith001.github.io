@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://meredith001.github.io</id>
+    <id>https://meredith001.github.io</id>
     <title>CoinFalcon</title>
-    <updated>2020-12-09T17:20:58.415Z</updated>
+    <updated>2020-12-09T17:26:26.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://meredith001.github.io"/>
-    <link rel="self" href="http://meredith001.github.io/atom.xml"/>
+    <link rel="alternate" href="https://meredith001.github.io"/>
+    <link rel="self" href="https://meredith001.github.io/atom.xml"/>
     <subtitle>区块链知识普及</subtitle>
-    <logo>http://meredith001.github.io/images/avatar.png</logo>
-    <icon>http://meredith001.github.io/favicon.ico</icon>
+    <logo>https://meredith001.github.io/images/avatar.png</logo>
+    <icon>https://meredith001.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, CoinFalcon</rights>
     <entry>
         <title type="html"><![CDATA[货币]]></title>
-        <id>http://meredith001.github.io/post/huo-bi/</id>
-        <link href="http://meredith001.github.io/post/huo-bi/">
+        <id>https://meredith001.github.io/post/huo-bi/</id>
+        <link href="https://meredith001.github.io/post/huo-bi/">
         </link>
         <updated>2020-12-09T17:09:23.000Z</updated>
         <content type="html"><![CDATA[<p>货币知识</p>
